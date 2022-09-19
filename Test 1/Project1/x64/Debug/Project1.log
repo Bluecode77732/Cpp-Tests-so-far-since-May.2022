@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(702,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2).
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(12,13): error C2601: 'main': 지역 함수 정의가 잘못되었습니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(3): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(13,3): error C2065: 'MyClass': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(13,11): error C2146: 구문 오류: ';'이(가) 'myObj' 식별자 앞에 없습니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(13,11): error C2065: 'myObj': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(16,2): error C2065: 'myObj': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(17,2): error C2065: 'myObj': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(20,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(20,10): error C2065: 'myObj': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(21,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\source\repos\Test 1\Project1\소스.cpp(21,10): error C2065: 'myObj': 선언되지 않은 식별자입니다.
