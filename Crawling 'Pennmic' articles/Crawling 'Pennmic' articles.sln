@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crawling 'Pennmic' articles", "Crawling 'Pennmic' articles\Crawling 'Pennmic' articles.vcxproj", "{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Debug|x64.ActiveCfg = Debug|x64
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Debug|x64.Build.0 = Debug|x64
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Debug|x86.Build.0 = Debug|Win32
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Release|x64.ActiveCfg = Release|x64
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Release|x64.Build.0 = Release|x64
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Release|x86.ActiveCfg = Release|Win32
+		{EB0E9224-1CE7-44DE-8D0B-E9789B2DFC4D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71C4958-759E-4EF3-A64E-AF3E14C58890}
+	EndGlobalSection
+EndGlobal
