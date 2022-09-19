@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Administrator\source\repos\Feed Pigeon\Feed Pigeon\소스.cpp(24,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Administrator\source\repos\Feed Pigeon\Feed Pigeon\소스.cpp(24,55): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Feed Pigeon.vcxproj -> C:\Users\Administrator\source\repos\Feed Pigeon\x64\Debug\Feed Pigeon.exe
