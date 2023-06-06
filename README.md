@@ -44,16 +44,9 @@ int main() {
 }
 
 
+//if '21' is greater than 'time', it will print "Good day."
 int time = 20;
-string result = 
-(
-time < 18
-)
- 
-?
- "Good day." 
-:
- "Good evening.";
+string result = (time < 21) ? "Good day." : "Good evening."; 
 cout << result; 
 
 
